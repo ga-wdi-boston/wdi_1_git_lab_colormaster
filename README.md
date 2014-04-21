@@ -2,6 +2,8 @@
 
 This assignment will test, and help you better understand, the flow of control in Bash and Git.
 
+I added a new line to this file so I would be able to submit a pull request. =D
+
 ## Important Note ##
 
 Whenever you finish a logical chunk of work, make a Git commit with a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html). You should have at least one commit per challenge, if not one commit per step! Get in the habit of making good descriptive commits now, and it will save you countless headaches down the road. **Do not, we repeat, do *not* use `git commit` with the `-m` or `-a` options, no matter what the internet tells you.**
